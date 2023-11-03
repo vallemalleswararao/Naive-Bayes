@@ -1,0 +1,221 @@
+Classification Report:
+                                                                                                                                precision    recall  f1-score   support
+
+                                                                                    Breezy and foggy starting in the evening.       0.00      0.00      0.00         2
+                                                                                              Breezy and foggy until morning.       0.00      0.00      0.00         4
+                                                                                          Breezy and mostly cloudy overnight.       0.00      0.00      0.00         1
+                                                                                   Breezy and partly cloudy in the afternoon.       0.00      0.00      0.00         6
+                                                                              Breezy in the morning and foggy in the evening.       0.33      0.33      0.33         9
+                                                             Breezy in the morning and mostly cloudy starting in the evening.       0.00      0.00      0.00         2
+                                                             Breezy in the morning and mostly cloudy starting in the morning.       0.00      0.00      0.00         2
+                                      Breezy in the morning and partly cloudy starting in the evening continuing until night.       0.00      1.00      0.00         6
+                                                                       Breezy overnight and mostly cloudy throughout the day.       0.00      0.00      0.00        18
+                                                                            Breezy overnight and overcast throughout the day.       0.00      0.00      0.00         9
+                                                                       Breezy overnight and partly cloudy throughout the day.       0.00      0.00      0.00         5
+                                                                            Breezy overnight and partly cloudy until evening.       0.00      0.00      0.00         5
+                                          Breezy starting in the afternoon continuing until evening and foggy in the evening.       0.00      0.00      0.00         6
+                                 Breezy starting in the afternoon continuing until evening and foggy starting in the evening.       0.00      0.00      0.00         5
+                           Breezy starting in the afternoon continuing until night and mostly cloudy starting in the evening.       0.00      0.00      0.00         5
+                         Breezy starting in the morning continuing until afternoon and mostly cloudy starting in the morning.       0.00      0.00      0.00         3
+                         Breezy starting in the morning continuing until afternoon and partly cloudy starting in the morning.       0.00      0.00      0.00         4
+                                                                       Breezy starting in the morning continuing until night.       0.00      0.00      0.00         5
+             Breezy starting overnight continuing until afternoon and foggy starting in the morning continuing until evening.       0.00      0.00      0.00         1
+          Breezy starting overnight continuing until afternoon and mostly cloudy starting overnight continuing until evening.       0.00      0.00      0.00         2
+                                                 Breezy starting overnight continuing until morning and foggy in the evening.       0.00      0.00      0.00         5
+                                                      Breezy starting overnight continuing until morning and foggy overnight.       0.00      0.00      0.00         5
+                                Breezy starting overnight continuing until morning and partly cloudy starting in the morning.       0.00      0.00      0.00         8
+            Breezy starting overnight continuing until morning and partly cloudy starting overnight continuing until evening.       0.00      0.00      0.00         5
+                                                                          Breezy starting overnight continuing until morning.       0.00      0.00      0.00         6
+                                                                 Breezy until afternoon and mostly cloudy throughout the day.       0.00      0.00      0.00         9
+                                                                      Breezy until afternoon and overcast throughout the day.       0.15      0.75      0.25         4
+                                                                               Breezy until evening and foggy in the morning.       0.00      0.00      0.00         3
+                                                                   Breezy until morning and mostly cloudy throughout the day.       0.02      0.07      0.03        14
+                                                                                                    Clear throughout the day.       0.00      0.00      0.00       187
+                                                                                             Drizzle starting in the evening.       0.00      0.40      0.00         5
+                                                                                                       Drizzle until morning.       0.00      0.00      0.00         3
+                                                                                                      Foggy in the afternoon.       0.00      0.00      0.00        26
+                                                                                                        Foggy in the evening.       0.00      0.00      0.00        53
+                                            Foggy in the morning and breezy starting in the afternoon continuing until night.       0.00      0.00      0.00         3
+                                                                                                        Foggy in the morning.       0.00      0.00      0.00       847
+                                                                                   Foggy overnight and breezy in the morning.       0.00      0.00      0.00         4
+                                                                                                             Foggy overnight.       0.08      0.00      0.01       268
+                               Foggy starting in the afternoon and breezy starting in the afternoon continuing until evening.       0.17      1.00      0.29         5
+                                                                    Foggy starting in the afternoon continuing until evening.       0.00      0.00      0.00        48
+                                                                      Foggy starting in the afternoon continuing until night.       0.00      0.00      0.00        26
+                                                                                             Foggy starting in the afternoon.       0.00      0.00      0.00        66
+                                                                        Foggy starting in the evening continuing until night.       0.00      0.00      0.00        27
+                                                                                               Foggy starting in the evening.       0.00      0.00      0.00       289
+                                 Foggy starting in the morning continuing until afternoon and breezy starting in the evening.       0.00      0.00      0.00         8
+                                                                    Foggy starting in the morning continuing until afternoon.       0.00      0.00      0.00        84
+                                            Foggy starting in the morning continuing until evening and breezy in the evening.       0.00      0.00      0.00         3
+                                                                      Foggy starting in the morning continuing until evening.       0.00      0.00      0.00        59
+                                                                        Foggy starting in the morning continuing until night.       0.00      0.00      0.00        67
+                                                                                               Foggy starting in the morning.       0.00      0.20      0.01        20
+                                               Foggy starting overnight continuing until afternoon and breezy in the morning.       0.00      0.00      0.00         2
+                                                                         Foggy starting overnight continuing until afternoon.       0.00      0.00      0.00       100
+                                                                           Foggy starting overnight continuing until evening.       0.00      0.00      0.00        64
+                                               Foggy starting overnight continuing until morning and breezy in the afternoon.       0.00      0.00      0.00         7
+                 Foggy starting overnight continuing until morning and breezy starting in the evening continuing until night.       0.00      0.00      0.00         6
+                                        Foggy starting overnight continuing until morning and breezy starting in the evening.       0.00      0.00      0.00         9
+             Foggy starting overnight continuing until morning and breezy starting in the morning continuing until afternoon.       0.00      0.00      0.00         4
+                                                                           Foggy starting overnight continuing until morning.       0.00      0.00      0.00       703
+                                                                             Foggy starting overnight continuing until night.       0.00      0.00      0.00        35
+                                                                                                    Foggy starting overnight.       0.00      0.00      0.00        21
+                                                                                                    Foggy throughout the day.       0.12      1.00      0.21       173
+                                                                                                       Foggy until afternoon.       0.00      0.00      0.00        76
+                                                                                                         Foggy until evening.       0.00      0.00      0.00        51
+                                                                                                         Foggy until morning.       0.00      0.00      0.00       530
+                                                                                                           Foggy until night.       0.00      0.00      0.00       113
+                                                                                     Light rain in the morning and afternoon.       0.05      0.60      0.08         5
+                                                                                                   Light rain in the morning.       0.00      0.00      0.00         5
+                                                                                                        Light rain overnight.       0.00      0.00      0.00         6
+                                                                                               Light rain starting overnight.       0.67      0.80      0.73         5
+                                                                                                    Light rain until morning.       0.00      0.00      0.00         7
+                                                                                                     Mostly cloudy overnight.       0.01      0.40      0.02         5
+                                                              Mostly cloudy starting in the afternoon continuing until night.       0.00      0.00      0.00        13
+                                                                                     Mostly cloudy starting in the afternoon.       0.00      0.00      0.00        19
+                                                                                       Mostly cloudy starting in the evening.       0.00      0.00      0.00         4
+                                                           Mostly cloudy starting in the morning and breezy in the afternoon.       0.00      0.00      0.00        10
+                                                             Mostly cloudy starting in the morning and breezy in the evening.       0.00      0.00      0.00         4
+                                                                  Mostly cloudy starting in the morning and breezy overnight.       0.00      0.00      0.00         6
+                         Mostly cloudy starting in the morning and breezy starting in the afternoon continuing until evening.       0.00      0.00      0.00         5
+                                                              Mostly cloudy starting in the morning and windy in the evening.       0.00      0.00      0.00         5
+                                                            Mostly cloudy starting in the morning continuing until afternoon.       0.00      0.33      0.00         6
+                                                              Mostly cloudy starting in the morning continuing until evening.       0.00      0.00      0.00        18
+                                    Mostly cloudy starting in the morning continuing until night and breezy in the afternoon.       0.00      0.00      0.00         6
+                                                                Mostly cloudy starting in the morning continuing until night.       0.00      0.00      0.00        41
+                                                                                       Mostly cloudy starting in the morning.       0.00      0.00      0.00       292
+                                                                Mostly cloudy starting overnight and breezy in the afternoon.       0.00      0.00      0.00         5
+                                                                  Mostly cloudy starting overnight and breezy in the morning.       0.00      0.00      0.00         8
+                              Mostly cloudy starting overnight and breezy starting in the afternoon continuing until evening.       0.00      0.00      0.00         9
+                                                         Mostly cloudy starting overnight and breezy starting in the evening.       0.00      0.00      0.00         9
+                              Mostly cloudy starting overnight and breezy starting in the morning continuing until afternoon.       0.00      0.00      0.00        15
+                                                                 Mostly cloudy starting overnight continuing until afternoon.       0.00      0.00      0.00        19
+            Mostly cloudy starting overnight continuing until evening and breezy starting overnight continuing until morning.       0.00      0.00      0.00         6
+                                                                   Mostly cloudy starting overnight continuing until evening.       0.00      0.00      0.00        48
+                                                                   Mostly cloudy starting overnight continuing until morning.       0.00      0.00      0.00        10
+         Mostly cloudy starting overnight continuing until night and breezy starting in the morning continuing until evening.       0.00      0.00      0.00         4
+                                                                     Mostly cloudy starting overnight continuing until night.       0.00      0.00      0.00       100
+                                                                                            Mostly cloudy starting overnight.       0.00      0.00      0.00       250
+                                                                Mostly cloudy throughout the day and breezy in the afternoon.       0.00      0.00      0.00        40
+                                                                  Mostly cloudy throughout the day and breezy in the evening.       0.00      0.00      0.00        21
+                                                                  Mostly cloudy throughout the day and breezy in the morning.       0.00      0.00      0.00        77
+                                                                       Mostly cloudy throughout the day and breezy overnight.       0.00      0.00      0.00        16
+                              Mostly cloudy throughout the day and breezy starting in the afternoon continuing until evening.       0.00      0.00      0.00        24
+                                                       Mostly cloudy throughout the day and breezy starting in the afternoon.       0.00      0.00      0.00        10
+                                  Mostly cloudy throughout the day and breezy starting in the evening continuing until night.       0.00      0.00      0.00         4
+                                                         Mostly cloudy throughout the day and breezy starting in the evening.       0.00      0.00      0.00        23
+                              Mostly cloudy throughout the day and breezy starting in the morning continuing until afternoon.       0.00      0.00      0.00        56
+                                Mostly cloudy throughout the day and breezy starting in the morning continuing until evening.       0.00      0.00      0.00        26
+                                  Mostly cloudy throughout the day and breezy starting in the morning continuing until night.       0.00      0.00      0.00         4
+                                   Mostly cloudy throughout the day and breezy starting overnight continuing until afternoon.       0.50      0.20      0.29         5
+                                     Mostly cloudy throughout the day and breezy starting overnight continuing until morning.       0.00      0.00      0.00        23
+                                 Mostly cloudy throughout the day and windy starting in the morning continuing until evening.       0.09      0.25      0.13         4
+                                   Mostly cloudy throughout the day and windy starting in the morning continuing until night.       0.00      0.00      0.00         4
+                                                                                            Mostly cloudy throughout the day.       0.00      0.00      0.00      4016
+                                                                                               Mostly cloudy until afternoon.       0.00      0.00      0.00        30
+                                                                     Mostly cloudy until evening and breezy in the afternoon.       0.00      0.00      0.00         2
+                                                                       Mostly cloudy until evening and breezy in the evening.       0.00      0.00      0.00         9
+                                   Mostly cloudy until evening and breezy starting in the morning continuing until afternoon.       0.00      0.00      0.00        31
+                                          Mostly cloudy until evening and breezy starting overnight continuing until morning.       0.00      0.00      0.00         7
+                                    Mostly cloudy until evening and windy starting in the morning continuing until afternoon.       0.00      0.00      0.00         3
+                                                                                                 Mostly cloudy until evening.       0.00      0.00      0.00       190
+                                                                                                 Mostly cloudy until morning.       0.00      0.00      0.00        28
+                                                                       Mostly cloudy until night and breezy in the afternoon.       0.00      0.00      0.00         7
+                                                                         Mostly cloudy until night and breezy in the evening.       0.00      0.00      0.00         5
+                                                                              Mostly cloudy until night and breezy overnight.       0.00      0.00      0.00         4
+                                     Mostly cloudy until night and breezy starting in the afternoon continuing until evening.       0.00      0.00      0.00         6
+                                       Mostly cloudy until night and breezy starting in the afternoon continuing until night.       0.00      0.00      0.00         4
+                                                              Mostly cloudy until night and breezy starting in the afternoon.       0.00      0.00      0.00         8
+                                         Mostly cloudy until night and breezy starting in the evening continuing until night.       0.00      0.00      0.00         1
+                                                                Mostly cloudy until night and breezy starting in the evening.       0.00      0.00      0.00        12
+                                     Mostly cloudy until night and breezy starting in the morning continuing until afternoon.       1.00      0.20      0.33         5
+                                       Mostly cloudy until night and breezy starting in the morning continuing until evening.       0.00      0.00      0.00         4
+                                            Mostly cloudy until night and breezy starting overnight continuing until morning.       0.00      0.00      0.00         6
+                                      Mostly cloudy until night and windy starting in the morning continuing until afternoon.       0.00      0.00      0.00         5
+                                                                                                   Mostly cloudy until night.       0.00      0.00      0.00       588
+                                                                                          Overcast starting in the afternoon.       0.00      0.00      0.00         5
+                                                                                            Overcast starting in the morning.       0.01      0.57      0.02         7
+                                                                     Overcast throughout the day and breezy in the afternoon.       0.00      0.00      0.00         5
+                                                                       Overcast throughout the day and breezy in the evening.       0.02      0.30      0.05        10
+                                                                       Overcast throughout the day and breezy in the morning.       0.00      0.00      0.00        21
+                                                                            Overcast throughout the day and breezy overnight.       0.00      0.33      0.00         3
+                                                              Overcast throughout the day and breezy starting in the evening.       0.00      0.44      0.01         9
+                                     Overcast throughout the day and breezy starting in the morning continuing until evening.       0.00      0.00      0.00         2
+                                        Overcast throughout the day and breezy starting overnight continuing until afternoon.       0.00      0.00      0.00         5
+                                          Overcast throughout the day and breezy starting overnight continuing until morning.       0.00      0.00      0.00         4
+                                                                                                 Overcast throughout the day.       0.00      0.00      0.00       591
+                                                                                                      Overcast until evening.       0.00      0.00      0.00        18
+                                                                                                      Overcast until morning.       0.00      0.00      0.00         7
+                                                                                   Overcast until night and breezy overnight.       0.00      0.00      0.00         4
+                                                                                                        Overcast until night.       0.00      0.00      0.00        25
+                                                                                              Partly cloudy in the afternoon.       0.00      0.00      0.00        51
+                                                                                                Partly cloudy in the evening.       0.00      0.00      0.00        38
+                                                                                                Partly cloudy in the morning.       0.00      0.00      0.00        93
+                                       Partly cloudy overnight and breezy starting in the morning continuing until afternoon.       0.00      0.00      0.00         3
+                                                                                                     Partly cloudy overnight.       0.00      0.00      0.00       175
+                                                         Partly cloudy starting in the afternoon and breezy in the afternoon.       0.00      0.00      0.00         5
+                                                            Partly cloudy starting in the afternoon continuing until evening.       0.00      0.00      0.00       274
+                                                              Partly cloudy starting in the afternoon continuing until night.       0.00      0.00      0.00        72
+                                                                                     Partly cloudy starting in the afternoon.       0.00      0.00      0.00       263
+                                                                Partly cloudy starting in the evening continuing until night.       0.00      0.50      0.00         6
+                                                                                       Partly cloudy starting in the evening.       0.00      0.00      0.00        13
+                                                             Partly cloudy starting in the morning and breezy in the evening.       0.00      0.00      0.00         6
+                         Partly cloudy starting in the morning and breezy starting in the afternoon continuing until evening.       0.00      0.00      0.00         2
+                         Partly cloudy starting in the morning and breezy starting in the morning continuing until afternoon.       0.00      0.00      0.00         6
+                                                            Partly cloudy starting in the morning continuing until afternoon.       0.00      0.00      0.00        63
+                                  Partly cloudy starting in the morning continuing until evening and breezy in the afternoon.       0.00      0.60      0.00         5
+Partly cloudy starting in the morning continuing until evening and breezy starting in the afternoon continuing until evening.       0.00      0.00      0.00         5
+Partly cloudy starting in the morning continuing until evening and breezy starting in the morning continuing until afternoon.       0.00      0.00      0.00         8
+                                                              Partly cloudy starting in the morning continuing until evening.       0.00      0.00      0.00       572
+  Partly cloudy starting in the morning continuing until night and breezy starting in the afternoon continuing until evening.       0.00      0.00      0.00         4
+  Partly cloudy starting in the morning continuing until night and breezy starting in the morning continuing until afternoon.       0.00      0.00      0.00         3
+                                                                Partly cloudy starting in the morning continuing until night.       0.00      0.00      0.00       423
+                                                                                       Partly cloudy starting in the morning.       0.00      0.00      0.00      1060
+                                                                Partly cloudy starting overnight and breezy in the afternoon.       0.10      0.20      0.13         5
+                                                         Partly cloudy starting overnight and breezy starting in the evening.       0.00      0.00      0.00         5
+                              Partly cloudy starting overnight and breezy starting in the morning continuing until afternoon.       0.00      0.00      0.00         4
+                                     Partly cloudy starting overnight continuing until afternoon and breezy in the afternoon.       0.00      0.00      0.00         3
+                                                                 Partly cloudy starting overnight continuing until afternoon.       0.00      0.00      0.00        34
+                                         Partly cloudy starting overnight continuing until evening and breezy in the evening.       0.00      0.00      0.00         6
+                                         Partly cloudy starting overnight continuing until evening and breezy in the morning.       0.00      0.00      0.00         7
+     Partly cloudy starting overnight continuing until evening and breezy starting in the morning continuing until afternoon.       0.00      0.00      0.00        13
+       Partly cloudy starting overnight continuing until evening and breezy starting in the morning continuing until evening.       0.00      0.00      0.00         3
+        Partly cloudy starting overnight continuing until evening and windy starting in the morning continuing until evening.       0.00      0.00      0.00         2
+                                                                   Partly cloudy starting overnight continuing until evening.       0.00      0.00      0.00       145
+     Partly cloudy starting overnight continuing until morning and breezy starting in the morning continuing until afternoon.       0.00      0.00      0.00         3
+                                                                   Partly cloudy starting overnight continuing until morning.       0.00      0.00      0.00        55
+                                         Partly cloudy starting overnight continuing until night and breezy in the afternoon.       0.00      0.50      0.00         4
+                                           Partly cloudy starting overnight continuing until night and breezy in the morning.       0.00      0.00      0.00         4
+        Partly cloudy starting overnight continuing until night and windy starting in the morning continuing until afternoon.       0.00      0.00      0.00         5
+                                                                     Partly cloudy starting overnight continuing until night.       0.00      0.00      0.00       176
+                                                                                            Partly cloudy starting overnight.       0.00      0.00      0.00       294
+                                                                Partly cloudy throughout the day and breezy in the afternoon.       0.00      0.00      0.00         5
+                                                                  Partly cloudy throughout the day and breezy in the evening.       0.00      0.00      0.00        16
+                                                                  Partly cloudy throughout the day and breezy in the morning.       0.00      0.00      0.00        12
+                              Partly cloudy throughout the day and breezy starting in the afternoon continuing until evening.       0.00      0.00      0.00        16
+                              Partly cloudy throughout the day and breezy starting in the morning continuing until afternoon.       0.00      0.00      0.00        40
+                                Partly cloudy throughout the day and breezy starting in the morning continuing until evening.       0.00      0.00      0.00         3
+                                  Partly cloudy throughout the day and breezy starting in the morning continuing until night.       0.00      0.00      0.00         5
+                               Partly cloudy throughout the day and windy starting in the morning continuing until afternoon.       0.00      0.00      0.00         5
+                                                                                            Partly cloudy throughout the day.       0.00      0.00      0.00      1998
+                                                                                               Partly cloudy until afternoon.       0.00      0.00      0.00        40
+                                                                     Partly cloudy until evening and breezy in the afternoon.       0.00      0.00      0.00         6
+                                                                       Partly cloudy until evening and breezy in the morning.       0.00      0.00      0.00        26
+                                                                            Partly cloudy until evening and breezy overnight.       0.00      0.00      0.00         3
+                                   Partly cloudy until evening and breezy starting in the morning continuing until afternoon.       0.00      0.00      0.00        23
+                                     Partly cloudy until evening and breezy starting in the morning continuing until evening.       0.00      0.00      0.00         5
+                                                                                                 Partly cloudy until evening.       0.00      0.00      0.00       630
+                                                                                                 Partly cloudy until morning.       0.00      0.00      0.00        79
+                                                                       Partly cloudy until night and breezy in the afternoon.       0.00      0.00      0.00         4
+                                                                         Partly cloudy until night and breezy in the morning.       0.00      0.00      0.00        10
+                                     Partly cloudy until night and breezy starting in the morning continuing until afternoon.       0.00      0.00      0.00        37
+                                                                                                   Partly cloudy until night.       0.00      0.00      0.00      1272
+                                                                                                     Rain throughout the day.       0.21      0.75      0.33         4
+                                                                                                        Rain until afternoon.       0.00      0.00      0.00         4
+                                                                                                          Rain until morning.       0.00      0.00      0.00         2
+                                                                                                      Windy in the afternoon.       0.00      0.00      0.00         8
+
+                                                                                                                     accuracy                           0.01     19291
+                                                                                                                    macro avg       0.02      0.05      0.02     19291
+                                                                                                                 weighted avg       0.00      0.01      0.00     19291
